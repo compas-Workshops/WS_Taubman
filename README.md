@@ -81,7 +81,7 @@ Finally, download the workshop repository to your computer and unzip it.
 You should be on the [main repository page](https://github.com/BlockResearchGroup/WS_assemblies) now.
 The download button is green and somewhere on the top right of the page.
 
-![Download WS_assemblies](images/rep_download.png)
+![Download WS_Taubman](images/rep_download.png)
 
 Use a sensible location for the download so you can easily find it afterwards.
 For example, create a folder called "Workshops" on your home drive and unzip the repository there.
@@ -192,7 +192,7 @@ such that others can benefit from the discussion.
 
 Otherwise you can also contact us via email at dellendice@arch.ethz.ch.
 
-![Issue Tracker](images/Issues_tracker.png)
+![Issue Tracker](images/Issues_tr.png)
 
 
 ## Troubleshooting
