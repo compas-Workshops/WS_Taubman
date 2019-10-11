@@ -89,7 +89,7 @@ For example, create a folder called "Workshops" on your home drive and unzip the
 *On Windows*
 
 ```
-%USERPROFILE%\WS_assemblies
+%USERPROFILE%\WS_Taubman
 ```
 
 *On Mac*
@@ -124,14 +124,14 @@ For example, if you used the download path from above, do
 *On Windows*
 
 ```bash
-cd %USERPROFILE%\WS_assemblies
+cd %USERPROFILE%\WS_Taubman
 conda env create -f windows.yml
 ```
 
 *On Mac*
 
 ```bash
-cd ~/WS_Anagni2019
+cd ~/WS_Taubman
 conda env create -f mac.yml
 ```
 
@@ -187,7 +187,7 @@ import compas_rbe
 **Many problems during installation are related to misspelled paths or command line instructions.**
 
 If you run into problems with the above instructions, the preferred way to ask
-for help is through the issue tracker of the current repository at https://github.com/BlockResearchGroup/WS_assemblies/issues
+for help is through the issue tracker of the current repository at https://github.com/BlockResearchGroup/WS_Taubman/issues
 such that others can benefit from the discussion.
 
 Otherwise you can also contact us via email at dellendice@arch.ethz.ch.
