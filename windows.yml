@@ -1,0 +1,16 @@
+name: brgws
+channels:
+  - conda-forge
+  - cvxgrp
+  - IBMDecisionOptimization
+dependencies:
+  - python=3.6
+  - pip>=19.0
+  - COMPAS=0.8.1
+  - shapely
+  - cvxopt
+  - cvxpy
+  - cplex
+  - pip:
+    - git+https://github.com/BlockResearchGroup/compas_assembly.git#egg=compas_assembly
+    - git+https://github.com/BlockResearchGroup/compas_rbe.git#egg=compas_rbe
