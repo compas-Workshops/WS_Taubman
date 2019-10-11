@@ -126,6 +126,7 @@ For example, if you used the download path from above, do
 ```bash
 cd %USERPROFILE%\WS_Taubman
 conda env create -f windows.yml
+conda activate brgws
 ```
 
 *On Mac*
@@ -133,6 +134,7 @@ conda env create -f windows.yml
 ```bash
 cd ~/WS_Taubman
 conda env create -f mac.yml
+conda activate brgws
 ```
 
 Finally, verify the installation using an interactive Python session.
