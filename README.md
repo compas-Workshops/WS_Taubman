@@ -51,11 +51,11 @@ This results in the following recommended installation directories for Anaconda.
 
 **If you are using Rhino 5 on Windows, you have to upgrade the built-in IronPython to version `2.7.5`.
 Not to the newest version, but to this specific version.**
-There are [detailed instructions](https://compas-dev.github.io/main/environments/rhino.html)
+There are [detailed instructions](https://compas-dev.github.io/main/gettingstarted/cad/rhino5_windows.html)
 in the COMPAS documentation that explain how to do this.
 
 Instructions for configuring Sublime Text are also available in the COMPAS docs:
-https://compas-dev.github.io/main/environments/sublimetext.html
+https://compas-dev.github.io/main/gettingstarted/editors/sublimetext.html
 
 *On Mac*
 
