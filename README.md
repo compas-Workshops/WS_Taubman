@@ -72,8 +72,6 @@ This results in the following recommended installation directories for Anaconda.
 ```
 ~/anaconda3
 ```
-Instructions for configuring Sublime Text are also available in the COMPAS docs:
-https://compas-dev.github.io/main/environments/sublimetext.html
 
 **3. Download repository**
 
